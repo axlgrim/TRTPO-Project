@@ -1,7 +1,7 @@
 # Diagrams
 
 # Table of Contents
-1 [Activity Diagrams](#activity)
+1 [Activity Diagrams](#activity)\
 1.1 [Activity Diagram main](#activity_main)
 1.2 [Activity Diagram Practice](#activity_practice)
 1.3 [Activity Diagram Theory](#activity_theory)
