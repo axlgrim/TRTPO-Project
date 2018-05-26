@@ -3,4 +3,4 @@
 # Activity Diagrams
 ## Activity Diagram main
 
-![Main Activity](ActivityDiagramMain.png)
+![Main Activity](ADocuments/Diagrams/ActivityDiagramMain.png)
