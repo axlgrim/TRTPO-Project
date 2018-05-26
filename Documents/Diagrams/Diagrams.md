@@ -2,20 +2,20 @@
 
 # Table of Contents
 1 [Activity Diagrams](#activity)\
-1.1 [Activity Diagram main](#activity_main)
-1.2 [Activity Diagram Practice](#activity_practice)
-1.3 [Activity Diagram Theory](#activity_theory)
-2 [Sequence Diagrams](#sequence)
-2.1 [Sequence Diagram Athentication](#sequence_auth)
-2.2 [Sequence Diagram Practice](#sequence_prac)
-2.3 [Sequence Diagram Theory](#sequence_theory)
-3 [State Machines](#sm)
-3.1 [Main State Machine](#sm_main)
-3.2 [Practice State Machine](#sm_practice)
-3.3 [Theory State Machine](#sm_theory)
-4 [Class Diagram](#class)
-5 [Component Diagram](#component)
-6 [Deployment Diagram](#deployment)
+1.1 [Activity Diagram main](#activity_main)\
+1.2 [Activity Diagram Practice](#activity_practice)\
+1.3 [Activity Diagram Theory](#activity_theory)\
+2 [Sequence Diagrams](#sequence)\
+2.1 [Sequence Diagram Athentication](#sequence_auth)\
+2.2 [Sequence Diagram Practice](#sequence_prac)\
+2.3 [Sequence Diagram Theory](#sequence_theory)\
+3 [State Machines](#sm)\
+3.1 [Main State Machine](#sm_main)\
+3.2 [Practice State Machine](#sm_practice)\
+3.3 [Theory State Machine](#sm_theory)\
+4 [Class Diagram](#class)\
+5 [Component Diagram](#component)\
+6 [Deployment Diagram](#deployment)\
 
 <a name="activity"/>
 
